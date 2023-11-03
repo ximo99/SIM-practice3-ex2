@@ -1,4 +1,4 @@
-﻿# Simulation: practice 3, exercice 2.
+# Practice 3, exercise 2: simulation of a fluid. Simulation.
 
 Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 3, exercise 2. Rating 7. A fluid must be simulated using a spring-based collision model.
 
